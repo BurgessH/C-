@@ -1,2 +1,1 @@
-#Cplusplus
-C plusplus Basic
+# C plusplus Basic
